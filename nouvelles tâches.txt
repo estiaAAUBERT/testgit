@@ -1,0 +1,20 @@
+Publier son éxécutable unity sur le web : Unity build une page html avec le jeu (avec webgl)
+					Faut que je donne accès au dossier build par unity à l'herbergeur
+					Il suffira de mettre un lien sur le site pointant vers la page web unity 
+					(Il faudra juste tester en amont le build) 
+
+Ajouter des vidéos localisées et pertinentes : Ajouter une vidéo description addimadour à l'entrée 
+						Ajouter une vidéo pour la nouvelle cellule 
+					  	Voir avec johanna et henri sur la pertinence des vidéos , et pour le contenu
+
+Voir quels médias est le plus susceptible de donner le plus d'informations (support ?) 	
+	-----> Up UI 
+
+Pour le guidage des visiteurs : Ajouter différents cas utilisateurs ( établir des scénarios de visites )
+				Suivant le CU, établir un lightpath à suivre 
+				
+
+AI : Ajouter du mouvement d'AI dans la structure et des fenêtres de dialogues
+
+
+	
